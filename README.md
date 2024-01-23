@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hophopsammy
-- 🌱 I’m currently learning K8, microservices and DevOps :) however I've also worked as an Android Dev for a while now :) 
+- 🌱 I’m currently learning data analysis through Python, SQL and visualization tools :) however I've also worked as an Android Dev for a while now :) 
 - 📫 You can reach me in Twitter @hophopsammy is my handle there :) 
 
 <!---
