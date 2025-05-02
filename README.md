@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hophopsammy
-- 🌱 I’m currently learning data analysis through Python, SQL and visualization tools :) however I've also worked as an Android Dev for a while now :) 
-- 📫 You can reach me in Twitter @hophopsammy is my handle there :) 
+- 🌱 I’m currently learning data analysis through Python, SQL and visualization tools :) however I've also worked as an Android Dev for a while now :)
 
 <!---
 hophopsammy/hophopsammy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
